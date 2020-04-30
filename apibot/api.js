@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const bot = new Telegraf('1197293831:AAF-f6f5hEiQXev83GMv05f44ei2g_J2bds');
 
-const helpString = `*Command Reference*
+const helpString = `*Command reference*
 /fortune - get a fortune cookie
 /cat - get a random cat pic
 /cat \`<text>\` - get cat image with your text on it
